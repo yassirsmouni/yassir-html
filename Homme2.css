@@ -1,0 +1,373 @@
+header {
+    background-color: white;
+
+}
+.menu{
+    margin-top: -40px;
+}
+nav{
+    
+        background-color: white;
+        color: white;
+      padding: 0px;
+        text-align: center;
+        color: black;
+
+    }
+    nav ul li{
+        background-color: white;
+       display: inline;
+        margin-left: 40px;   
+        margin-top: -500px;
+    }
+    a{
+        text-decoration: none;
+        color: gray;
+        top: 10%;
+    }
+    a:hover{
+        color: blue;
+        
+    }
+    .title{
+        margin-left: -95%;
+        margin-top: -20px;
+        font-style: initial;
+        font-size: 20px;
+        margin-bottom: -42px;
+    }
+    .m{
+        margin-top: -20px;
+    }
+    .real{
+        margin-left: -85%;
+        margin-top: -42px;
+        
+    }
+        .vl {
+            border-left: 1px solid black;
+            height: 50px;
+            margin-left: 140px;
+            margin-top: -40px;
+            margin-bottom: -25px;
+          }
+        .cham{
+            margin-top: -25px;
+            margin-left: -72%;
+            width: 40px;
+            height: 30px;
+        }
+        .spn{
+            margin-top: -40px;
+        }
+        .fly{
+            margin-top: -170px;
+            margin-right: -90%;
+            margin-left: 20px;
+        }
+        .video{
+            border: 1px gray solid;
+            background-color: #f3f5f8;
+            padding:60px;
+            border-radius: 40px;
+            margin-top: 80px;
+          margin-left: 70px; 
+          
+        height: 40%;
+        }
+        hr{
+            margin-top: 10px;
+        }
+        video{
+            border: 1px white solid;
+            border-radius: 40px;
+            margin-top: -50px;
+          margin-left: -600px;
+          margin-bottom: 35px;
+         width: 40%;
+         height: 20%;
+          box-shadow: 3px 4px 5px 6px rgb(173, 166, 166) ;
+        }
+        .des1{
+            margin-right: -600px;
+            margin-left: -10px;
+            margin-top: -170px;
+            font-size: 40px;
+            color: black;
+        }
+        .news{
+            
+            
+            margin-top: 30px;
+            margin-left: 20px;
+
+        }
+        .champ{
+            width: 500px;
+            height: 400px;
+            border-radius: 20px;
+            margin-left: -50%;
+            margin-top: 30px;
+             
+        }
+        .des2{
+            font-size: 30px;
+            margin-top: 10px;
+            margin-left: 100px;
+        }
+        .des3{
+            font-size: 30px;
+            margin-top: -40px;
+            margin-left: 70px;
+        }
+        .news1{
+            margin-top: 30px;
+            margin-left: 40px;
+
+        }
+        .int{
+            width: 500px;
+            height: 410px;
+            border-radius: 20px;
+            margin-left: 600px;
+            margin-top: -5000px;
+            margin-bottom: 130px;
+        }
+        .des4{
+            font-size: 30px;
+            margin-top: -120px;
+            margin-left: 770px;
+        }
+        .news2{
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+    .kroos{
+        width: 252px;
+        height: 141.75px;
+        border-radius: 10px;
+        margin-left: -950px;
+        margin-top: 30px;
+
+
+    }
+.des5{
+    font-size: 22px;
+    margin-top: 2px;
+    margin-left: 40px;
+}
+.news3{
+     margin-top: 30px;
+     margin-left: 40px;
+}    
+.modric{
+    width: 252px;
+    height: 141.75px;
+    border-radius: 10px;
+    margin-left:  -300px;
+    margin-top: -500px;
+    margin-bottom: 125px;
+}    
+.des6{
+    font-size: 22px;
+    margin-top: -100px;
+    margin-left: 370px;
+}
+.news4{
+    margin-top: 30px;
+    margin-left: 40px;
+}    
+.vin{
+   width: 252px;
+   height: 141.75px;
+   border-radius: 10px;
+   margin-left: 300px;
+   margin-top: -500px;
+   margin-bottom: 125px;
+}    
+.des7{
+   font-size: 22px;
+   margin-top: -100px;
+   margin-left:  700px;
+}
+.news5{
+    margin-top: 30px;
+    margin-left: 40px;
+}    
+.leg{
+   width: 252px;
+   height: 141.75px;
+   border-radius: 10px;
+   margin-left: 950px;
+   margin-top: -500px;
+   margin-bottom: 125px;
+}    
+.des8{
+   font-size: 22px;
+   margin-top: -100px;
+   margin-left:  1000px;
+}
+.espace{
+    margin-top: 60px;
+    color: gray;
+}
+.title1{
+    font-size: 40px;
+    color: #0f2145;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#ticket{
+   
+    background-color: black;
+    color: white;
+   border: 0.5px solid ;
+   border-radius: 45px;
+   padding-bottom: 80px;
+   margin-top: 85px;
+   margin-left: 80px;
+   margin-right:800px ;
+ 
+}
+.real1{
+   margin-top: 26px;
+   margin-left: 30px;
+}
+.liga{
+  margin-left: 25px;
+}
+.dep{
+   margin-left: 25px;
+}
+.tour{
+   font-size: 25px;
+   margin-top: 20px;
+   margin-left: 100px;
+}
+.cal{
+   margin-left: 5px;
+}
+.descal{
+   font-size: 20px;
+   margin-top: -30px;
+   margin-left: 55px;
+}
+.pos{
+margin-top: 15px
+}
+.despos{
+   font-size: 20px;
+   margin-top: -30px;
+   margin-left: 54px;
+}
+.btn1{
+   border: 1px solid;
+   margin-top: 30px;
+   margin-left: 30px;
+   padding: 10px;
+   padding-left: 40px;
+   padding-right: 90px;
+   background-color: white;
+   color: rgba(0, 0, 0, 0.2);
+   border-radius: 20px;
+}
+.vip{
+   margin-left: -155px;
+
+}
+.desvip{
+   margin-left: 40px;
+   margin-top: -25px;
+   font-size: 14px;
+}
+.lin{
+   text-decoration: none;
+
+}
+.lin :hover{
+   color: black;
+}
+.btn2{
+   border: 1px solid;
+   margin-top: 30px;
+   margin-left: 30px;
+   padding: 10px;
+   padding-left: 40px;
+   padding-right: 120px;
+   background-color: white;
+   color: rgba(0, 0, 0, 0.2);
+   border-radius: 20px;
+}
+.normal{
+   margin-left: -100px;
+
+}
+.desnormal{
+   margin-left: 90px;
+   margin-top: -25px;
+   font-size: 14px;
+}
+#ticket2{
+  
+   background-color: black;
+   color: white;
+  border: 0.5px solid ;
+  border-radius: 45px;
+  padding-bottom: 80px;
+  margin-top: -520px;
+  margin-left: 800px;
+  margin-right:80px ;
+
+}
+.real2{
+   margin-top: 26px;
+   margin-left: 30px;
+}
+.liga{
+  margin-left: 25px;
+}
+.betis{
+   margin-left: 25px;
+}
+.tour{
+   font-size: 25px;
+   margin-top: 20px;
+   margin-left: 100px;
+}
+.cal{
+   margin-left: 5px;
+}
+.descal{
+   font-size: 20px;
+   margin-top: -30px;
+   margin-left: 55px;
+}
+.pos{
+margin-top: 15px
+}
+.despos{
+   font-size: 20px;
+   margin-top: -30px;
+   margin-left: 54px;
+}
+.reallink{
+    float: left;
+}
+.facebook{
+
+}
+.instagram{
+
+}
+.x{
+  margin-left: 20px;
+}
+.youtube{
+margin-left: 300px;
+}
+.snap{
+ margin-left: 580px;
+}
+.tiktok{
+    float: right;
+}

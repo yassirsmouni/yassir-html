@@ -1,0 +1,95 @@
+
+/* CSS styles for the layout */
+
+header {
+    background-color: #0b1446;
+    color: #fff;
+    padding: 0px;
+    text-align: center;
+
+}
+nav {
+    background-color: #0b1446;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+nav ul li {
+    list-style: none;
+    padding-left: 30px;
+    display: inline;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#real{
+    position: absolute;
+    top: 10%;
+    left: 20px;
+    width:  55px;
+    height: 55px;
+}
+#fly{
+    
+}
+#addidas{
+
+}
+.btn1{
+    border: black solid ;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 43%;
+
+    background-color: #0c1339 ;
+    color: white;
+}
+.btn2{
+    border: black solid ;
+    border-radius: 50px;
+     margin-left: 20px;
+    margin-top: 40px;
+    background-color: #0c1339 ;
+    color: white;
+}
+#C {      /* border radius ! */
+    border-style: none;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.news1 #des{
+    display: flex; /* Utiliser flexbox pour aligner les éléments */
+    align-items: center; /* Aligner les éléments verticalement */
+    position: relative;
+    margin-left: 40%;
+    margin-top: -18%;
+    margin-right: 20px  ;
+    color: #3e31fa;
+    font-size: 52px;
+}
+.news #B{
+    border-style: none;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 20px;  
+}
+
+.real1{
+    width: 50px;
+    height: 35px;
+ 
+}
+.contact{
+    position: absolute; /* Position absolue par rapport au conteneur parent */
+    padding: 20px;
+    right: 10px;
+}
+.contact  .real1{
+    position: absolute;
+  left:  10px;
+  padding: 10px;
+}

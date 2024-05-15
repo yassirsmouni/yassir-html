@@ -1,0 +1,610 @@
+header {
+    background-color: white;
+
+}
+.menu{
+    margin-top: -40px;
+}
+nav{
+    
+        background-color: white;
+        color: white;
+      padding: 0px;
+        text-align: center;
+        color: black;
+
+    }
+    nav ul li{
+        background-color: white;
+       display: inline;
+        margin-left: 40px;   
+        margin-top: -500px;
+    }
+    a{
+        text-decoration: none;
+        color: gray;
+        top: 10%;
+    }
+    a:hover{
+        color: blue;
+        
+    }  .title{
+        margin-left: -95%;
+        margin-top: -20px;
+        font-style: initial;
+        font-size: 20px;
+        margin-bottom: -42px;
+    }
+    .m{
+        margin-top: -20px;
+    }
+    .real{
+        margin-left: -85%;
+        margin-top: -42px;
+        
+    }
+        .vl {
+            border-left: 1px solid black;
+            height: 50px;
+            margin-left: 140px;
+            margin-top: -40px;
+            margin-bottom: -25px;
+          }
+        .cham{
+            margin-top: -25px;
+            margin-left: -72%;
+            width: 40px;
+            height: 30px;
+        }
+        .spn{
+            margin-top: -40px;
+        }
+        .fly{
+            margin-top: -170px;
+            margin-right: -90%;
+            margin-left: 20px;
+        }
+        .equipe{
+            margin-left: 38%;
+            margin-top: 15px;
+            font-family: "Sofia", sans-serif;
+            font-size: 30px;
+            text-shadow: 3px 3px 3px #ababab;
+            color: black;
+        }
+        .filter{
+            font-family: "Sofia", sans-serif;
+            font-size: 20px;
+            text-shadow: 3px 3px 3px #ababab;
+            color: black;
+            margin-left: -90px;
+        }
+        
+        #gar{
+            
+        }
+        #def{
+            margin-left: 90px;
+        }
+        #mil{
+            margin-left: 90px;
+        }
+        #att{
+            margin-left: 90px;
+        }
+        #coach{
+            margin-left: 90px;
+        }
+    .gar1{
+        margin-left: 40%;
+        margin-top: 35px;
+        font-family: "Sofia", sans-serif;
+        font-size: 30px;
+        text-shadow: 3px 3px 3px #ababab;
+        color: black;
+    }
+    .cort{
+      
+     background-color: gray;
+     background-size: cover;
+        border: 0.5px solid ;
+        border-radius: 5px;
+        width: 203.67px;
+        height: 203.67px;
+        margin-left: 20px;
+    }
+    .descort{
+        margin-top: 20px;
+        margin-left: 15px;
+        color: white;
+        font-family: "Trirong", serif;
+        font-size: 23px;
+    } 
+    #num1{
+        margin-top: -80px;
+        color: white;
+        margin-left: 80px;
+        font-size: 25px;
+    }
+    .kepa{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 300px;
+           margin-top: -202px;
+       }
+       .deskepa{
+           margin-top: 20px;
+           margin-left: 55px;
+           color: white;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num25{
+           margin-top: -80px;
+           color: white;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .lunin{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 600px;
+           margin-top: -204px;
+       }
+       .deslunin{
+           margin-top: 25px;
+           margin-left: 50px;
+           color: white;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num13{
+           margin-top: -80px;
+           color: white;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .def1{
+        margin-left: 38%;
+        margin-top: 35px;
+        font-family: "Sofia", sans-serif;
+        font-size: 30px;
+        text-shadow: 3px 3px 3px #ababab;
+        color: black;
+       }
+       .rudiger{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 300px;
+           margin-top:  35px;
+       }
+       .desrudiger{
+           margin-top: 20px;
+           margin-left: 60px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num22{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .alaba{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 20px;
+           margin-top: -206px;
+       }
+       .desalaba{
+           margin-top: 20px;
+           margin-left: 60px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num4{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .militao{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 580px;
+           margin-top: -228px;
+       }
+       .desmilitao{
+           margin-top: 25px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num3{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .carvajal{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 900px;
+           margin-top: -205px;
+       }
+       .descarvajal{
+           margin-top: 20px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num2{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .nacho{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: -4px;
+           margin-top: 70px;
+       }
+       .desnacho{
+           margin-top: 20px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num6{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .mendy{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 300px;
+           margin-top: -202px;
+       }
+       .desmendy{
+        margin-top: 20px;
+        margin-left: 50px;
+        color: black;
+        font-family: "Trirong", serif;
+        font-size: 23px;
+       } 
+       #num23{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .mil1{
+        margin-left: 42%;
+        margin-top: 305px;
+        font-family: "Sofia", sans-serif;
+        font-size: 30px;
+        text-shadow: 3px 3px 3px #ababab;
+        color: black;
+    }
+    .modric{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 12px;
+           margin-top: 70px;
+       }
+       .desmodric{
+           margin-top: 20px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num10{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .kroos{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 320px;
+           margin-top: -202px;
+       }
+       .deskroos{
+        margin-top: 20px;
+        margin-left: 50px;
+        color: black;
+        font-family: "Trirong", serif;
+        font-size: 23px;
+       } 
+       #num8{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .bellingham{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 620px;
+           margin-top: -203px;
+       }
+       .desbellingham{
+           margin-top: 25px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num5{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .valverde{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 940px;
+           margin-top: -205px;
+       }
+       .desvalverde{
+           margin-top: 20px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num15{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .camavinga{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 12px;
+           margin-top: 70px;
+       }
+       .descamavinga{
+           margin-top: 20px;
+           margin-left: 40px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num12{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .tchouameni{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 320px;
+           margin-top: -202px;
+       }
+       .destchouameni{
+        margin-top: 20px;
+        margin-left: 50px;
+        color: black;
+        font-family: "Trirong", serif;
+        font-size: 23px;
+       } 
+       #num18{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .att1{
+        margin-left: 38%;
+        margin-top: 60px;
+        font-family: "Sofia", sans-serif;
+        font-size: 30px;
+        text-shadow: 3px 3px 3px #ababab;
+        color: black;
+    }
+    .vini{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 12px;
+           margin-top: 48px;
+       }
+       .desvini{
+           margin-top: 20px;
+           margin-left: 40px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 23px;
+       } 
+       #num7{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .rodrygo{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 320px;
+           margin-top: -202px;
+       }
+       .desrodrygo{
+        margin-top: 20px;
+        margin-left: 50px;
+        color: black;
+        font-family: "Trirong", serif;
+        font-size: 23px;
+       } 
+       #num11{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .diaz{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 622px;
+           margin-top: -203px;
+       }
+       .desdiaz{
+           margin-top: 25px;
+           margin-left: 55px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num21{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .joselu{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 940px;
+           margin-top: -205px;
+       }
+       .desjoselu{
+           margin-top: 20px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 26px;
+       } 
+       #num14{
+           margin-top: -80px;
+           color: black;
+           margin-left: 80px;
+           font-size: 25px;
+       }
+       .coach1{
+        margin-left: 40%;
+        margin-top: 60px;
+        font-family: "Sofia", sans-serif;
+        font-size: 33px;
+        text-shadow: 3px 3px 3px #ababab;
+        color: black;
+    }
+    .ancelotti{
+      
+        background-color: gray;
+        background-size: cover;
+           border: 0.5px solid ;
+           border-radius: 5px;
+           width: 203.67px;
+           height: 203.67px;
+           margin-left: 38%;
+           margin-top: 70px;
+       }
+       .desancelotti{
+           margin-top: 20px;
+           margin-left: 50px;
+           color: black;
+           font-family: "Trirong", serif;
+           font-size: 32px;
+       } 
